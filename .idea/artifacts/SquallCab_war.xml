@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SquallCab:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SquallCab</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SquallCab-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SquallCab:war exploded" />
+    </root>
+  </artifact>
+</component>
