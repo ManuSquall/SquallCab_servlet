@@ -9,7 +9,7 @@
     <!-- ============================================================== -->
     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
         <div class="card">
-            <h5 class="card-header">Basic Map</h5>
+            <h5 class="card-header">Map</h5>
             <div class="card-body">
                 <div id="map" class="gmaps" style="position: relative; overflow: hidden;">
                     <div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);">

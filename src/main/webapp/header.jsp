@@ -57,13 +57,14 @@
                 <ul class="navbar-nav ml-auto navbar-right-top">
                     <li class="nav-item">
                         <div id="custom-search" class="top-search-bar">
-                            <input class="form-control" type="text" placeholder="Search..">
+
                         </div>
                     </li>
 
 
 
                     <li class="nav-divider">
+                        <i class="fa fa-fw fa-user-circle"></i>
                         <a href="connect"> Se connecter</a>
 
                     </li>
@@ -130,6 +131,7 @@
 
                         </div>
 
+                        <!--
                         <li class="nav-item ">
                             <a class="nav-link active" href="#" data-toggle="collapse" aria-expanded="false"
                                data-target="#submenu-1" aria-controls="submenu-1"><i
@@ -149,12 +151,12 @@
                                 </ul>
                             </div>
                         </li>
-
-                        <!-- ################# -->
+                        -->
+                        <!-- #################
                         <li class="nav-divider">
                         </li>
-                        <!-- ################# -->
-
+                         ################# -->
+                        <!--
                         <li class="nav-item ">
                             <a class="nav-link active" href="#" data-toggle="collapse" aria-expanded="false"
                                data-target="#submenu-2" aria-controls="submenu-2"><i
@@ -174,19 +176,7 @@
                                 </ul>
                             </div>
                         </li>
-
-
-
-                        <!-- ############################################## -->
-
-
-                        <li class="nav-divider">
-                            <a href="connect"> Se connecter</a>
-
-                        </li>
-
-
-
+                        -->
 
 
                     </ul>
@@ -214,7 +204,7 @@
                     <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                         <div class="page-header">
                             <h2 class="pageheader-title">Avec SquallCab se déplacer deviens plus facile </h2>
-                            <div class="page-breadcrumb">
+                            <%--<div class="page-breadcrumb">
                                 <nav aria-label="breadcrumb">
                                     <ol class="breadcrumb">
                                         <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">Dashboard</a></li>
@@ -222,7 +212,7 @@
                                         <li class="breadcrumb-item active" aria-current="page">Google Map</li>
                                     </ol>
                                 </nav>
-                            </div>
+                            </div>--%>
                         </div>
                     </div>
                 </div>
